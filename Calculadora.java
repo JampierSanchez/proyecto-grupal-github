@@ -1,9 +1,9 @@
 public class Calculadora {
-    // Método para sumar dos enteros
+    
     public int sumar(int a, int b) {
         return a + b;
     }
-    // Sobrecarga: método para sumar dos dobles
+    
     public double sumar(double a, double b) {
         return a + b;
     }
